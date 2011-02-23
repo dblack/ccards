@@ -1,0 +1,5 @@
+A C-learning project of mine: implementing playing cards and the logic to
+evaluate a poker hand and compare two poker hands. It's a bit of a mashup
+of different ideas on how to evaluate the hands, and isn't a great model of
+a poker algorithm. But the main point is to give me some practice writing and
+unit-testing C. 
